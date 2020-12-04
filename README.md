@@ -1,6 +1,6 @@
 # portfoliolandingpage
-{basic landing page to programming
-#### git This is a portfolio that entails details about me and my background path to programming
+basic landing page to programming
+####  This is a portfolio that entails details about me and my background path to programming
 ### author Jason Mihari
 ## project setup instructions 
 * Your name
@@ -9,3 +9,4 @@
 * An "About Me" section
 ### Licence 
 * MIT
+[link to live site on github ](https://github.com/JasonMihari/portfoliolandingpage.git)
