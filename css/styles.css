@@ -1,5 +1,14 @@
-h1 {
-  color: #C70039 
+h1 { 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 50px;
+  font-style: initial;
   text-align: center;
-  font-weight: bold
+}
+h2{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+body{
+
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
