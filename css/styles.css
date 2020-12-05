@@ -3,12 +3,19 @@ h1 {
   font-size: 50px;
   font-style: initial;
   text-align: center;
+  text-decoration: underline
 }
 h2{
   font-family: Georgia, 'Times New Roman', Times, serif;
   text-align: center;
+  color:#57041C;
+  font-size: 40px;
+  
+  
 }
 body{
 
   font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 18px
+  ;
 }
